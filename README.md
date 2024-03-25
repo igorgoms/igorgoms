@@ -1,6 +1,6 @@
 ### Olá pessoas! Eu sou o Igor Gomes
 
-- 🔭 Hoje trabalho com Front-End e Desenvolvimento de jogos.
+- 🔭 Hoje trabalho com Front-End Back-End, Administrador de Redes e Desenvolvimento de jogos.
 - 🌱 Estudando bastante Javascript e Typescript.
 - 📫 Contate-me no email: igorgomes.150@hotmail.com.
 
