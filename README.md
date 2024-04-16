@@ -1,5 +1,5 @@
 <h1 align="center">Olá Pessoas 👋, eu sou Igor Gomes</h1>
-<h3 align="center">Sou Dev Pleno, a cerca de 3 anos na área de desenvolvimento de jogos, web e apps, estou começando a montar meus portfolios. Também sou analista de redes.</h3>
+<h3 align="center">Sou Dev Pleno, a cerca de 3 anos na área de desenvolvimento de jogos, web e apps, estou voltando a montar meus portfolios. Também sou analista de redes.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igorgoms&label=Profile%20views&color=0e75b6&style=flat" alt="igorgoms" /> </p>
 
