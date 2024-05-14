@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igorgoms&label=Profile%20views&color=0e75b6&style=flat" alt="igorgoms" /> </p>
 
-- 🔭 Estou trabalhando atualmente em um jogo que eu chamo carinhosamente de **"Project Down"**
+- 🔭 Estou trabalhando atualmente em um jogo que eu chamo carinhosamente de **"Project Town"**
 
 - 📫 Contate-me **igorgomes.150@hotmail.com**
 
