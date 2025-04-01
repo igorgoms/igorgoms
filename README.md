@@ -8,7 +8,7 @@
 ---
 
 ### 🔭 Projetos Atuais
-- Trabalhando em um jogo chamado **"Project Town"**, que combina elementos modernos e inovadores.
+- Trabalhando em um jogo de RPG chamado **"Prometheus"**.
 
 ### 📫 Contato
 - **Email:** [igorgomes.150@hotmail.com](mailto:igorgomes.150@hotmail.com)
