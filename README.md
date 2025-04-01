@@ -1,5 +1,5 @@
 <h1 align="center">Olá Pessoas 👋, eu sou Igor Gomes</h1>
-<h3 align="center">Desenvolvedor Pleno com 3 anos de experiência em desenvolvimento de jogos, web e aplicativos. Atualmente, estou focado em construir um portfólio sólido para mostrar minhas habilidades. Também atuo como Analista de Redes.</h3>
+<h3 align="center">Desenvolvedor de jogos, web e aplicativos. Atualmente, estou focado em construir um portfólio sólido para mostrar minhas habilidades. Também atuo como Analista de Redes.</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=igorgoms&label=Profile%20views&color=0e75b6&style=flat" alt="igorgoms" />
