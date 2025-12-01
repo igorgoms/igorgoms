@@ -8,7 +8,7 @@
 ---
 
 ### 🔭 Projetos Atuais
-- Trabalhando em um jogo de RPG chamado **"Prometheu"**.
+- **Em Pausa!**.
 
 ### 📫 Contato
 - **Email:** [igorgomes.150@hotmail.com](mailto:igorgomes.150@hotmail.com)
